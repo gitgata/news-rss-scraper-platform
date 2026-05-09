@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+jinja2
+beautifulsoup4
+feedparser
+httpx
+apscheduler
+python-dotenv
+sqlalchemy
+alembic
+pydantic
+lxml
